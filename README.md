@@ -6,7 +6,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| **Student Directory**            | Built upon a Makers project to add extra functionality | Ruby |
+| **Student Directory**            | Built upon a Makers project to add extra functionality | Ruby              |
+| **Pace converter**               | Pre-Makers early project that converts between pace/speed & KM/miles | JavaScript, HTML, CSS|
 
 ## Work Experience
 
