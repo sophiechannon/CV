@@ -6,8 +6,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| **Student Directory**            | Built upon a Makers project to add extra functionality | Ruby              |
-| **Pace converter**               | Pre-Makers early project that converts between pace/speed & KM/miles | JavaScript, HTML, CSS|
+| [**Student Directory**](https://github.com/sophiegilder/student-directory)          | Built upon a Makers project to add extra functionality | Ruby              |
+| [**Pace Converter**](https://github.com/sophiegilder/running-pace-converter)             | Pre-Makers early project that converts between pace/speed & KM/miles | JavaScript, HTML, CSS|
 
 ## Work Experience
 
@@ -85,7 +85,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Apr-22 to Aug-22)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -94,16 +94,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Surrey (Sep-09 to Jun-13)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Music and Arts Management
+- 1st Class Honors
+- Specialised in performance, composition and management
+- Awarded a performance scholarship
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Playing viola in orchestra, running my small macrame business, running, cycling and paddleboarding
