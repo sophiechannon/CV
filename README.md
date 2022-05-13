@@ -1,4 +1,4 @@
-## Your Name
+## Sophie Gilder
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,15 +11,47 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Cambridge Junction** (Jan-20 to May-22)  
+_Development Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Developing projects and securing funds from indiviuals, corporates and through grant applications. The funds raised have made some incredible projects possible, including:
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- A drill music production and video making programme for disadvantaged young people
+- Filmmaking taster sessions in SEND schools
+- Cambridgeshire Community Youth Choir - an accessible choir for young people
+- Virtual industry days to teach young people about careers in the arts
+- Arts Council England funded project with local care home and school to celebrate the Queen's Jubilee
+- Fortnightly filmmaking sessions for disabled young people
 
-- Any experience relevent to software development
+**Cambridge City Council & Cambridge Folk Festival** (Oct-18 to Dec-19)  
+_Development Manager_
+
+- Designed and implemented a new membership scheme, including specification for web integration
+- Developed corporate partnerships with major tech partners
+
+**BirdLife International** (Sep-16 to Oct-18)  
+_Fundraising Officer_
+
+- Streamlined existing administrative processes through use of CRM and Excel
+- Significantly improved donor experience online
+
+**Hazard Chase** (Sep-15 to Sep-16)  
+_Assistant Artist Manager_
+
+- Using diary management software to plan, arrange and booking an artist's engagement, including travel, accommodation,  visas and itineraries
+
+**Arts Marketing Association** (Nov-13 to Sep-15)  
+_Membership and Marketing Officer_
+
+- Managing the membership scheme and member communications
+- Communications for the mentoring scheme and the member rep scheme
+- Support at conferences and hosting events across the UK
+
+**University of Surrey** (Sep-13 to Jun-14)  
+_Associate Tutor in Concert Management_
+
+- Managing music events
+- Teaching the skills required to plan and manage a concert through lectures and practical training
 
 ## Skills
 
