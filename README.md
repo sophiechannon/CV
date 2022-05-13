@@ -4,10 +4,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                             | Description                                            | Tech/tools        |
+| -------------------------------- | ------------------------------------------------------ | ----------------- |
+| **Student Directory**            | Built upon a Makers project to add extra functionality | Ruby |
 
 ## Work Experience
 
