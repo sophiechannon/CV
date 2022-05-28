@@ -8,7 +8,7 @@ _This CV is a work in progress whilst I am studying at Makers Academy (Apr22-Aug
 
 - **Project development and management**
 
-In its own way, the fundraising process isn't all that different to software development. Each project starts with a careful planning and budgeting phase, prospecting for the right funder, and a watertight application, which is followed by project delivery, evaluation/reporting, and funder stewardship. As Development Manager at Cambridge Junction, I had the opportunity to hone my leadership skills whilst overseeing projects, which were delivered by members of the creative learning team. It was my job to report back to the funder at the end and keep the project on track and on budget.
+In its own way, the fundraising process isn't all that different to the software development process. Each project starts with a careful planning and budgeting phase, prospecting for the right funder, and a watertight application, followed by project delivery, evaluation/reporting, and funder stewardship. As Development Manager at Cambridge Junction, I had the opportunity to hone my leadership skills whilst overseeing projects, which were delivered by members of the creative learning team. It was my job to report back to the funder at the end and keep the project on track and on budget.
 
 - **Teamwork**
 
