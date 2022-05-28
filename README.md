@@ -2,27 +2,20 @@
 
 Junior Software Engineer with a background in fundraising project management in the arts and charity sector. I want to work in tech and use my experience in one of the most socially progressive industries to help make the world a better place.
 
-_This CV is a work in progress whilst I am studying at Makers Academy (Apr22-Aug22) and will be updated regularly. Please excuse gaps.
-
-## Projects
-
-| Name                             | Description                                            | Tech/tools        |
-| -------------------------------- | ------------------------------------------------------ | ----------------- |
-| [**Takeaway**](https://github.com/sophiegilder/golden-square/tree/main/takeaway)          | Week 2 Makers project - class system Takeaway simulator | | Ruby, RSpec, Twilio API            |
-
+_This CV is a work in progress whilst I am studying at Makers Academy (Apr22-Aug22) and will be updated regularly. Please excuse gaps._
 
 ## Skills
 
-- Project development and management
+- **Project development and management**
 In its own way, the fundraising process isn't all that different to software development. Each project starts with a careful planning and budgeting phase, prospecting for the right funder, and a watertight application, which is followed by project delivery, evaluation/reporting, and funder stewardship. As Development Manager at Cambridge Junction, I had the opportunity to hone my leadership skills whilst overseeing projects, which were delivered by members of the creative learning team. It was my job to report back to the funder at the end and keep the project on track and on budget.
 
-- Teamwork
+- **Teamwork**
 I believe that everybody can bring something unique to a team and that combining skills together through effective teamwork is far more important than having a talented individual in a poorly managed team. One of my greatest examples of teamwork takes place outside of the workplace: playing in music ensembles. When I rehearse with orchestra, I need to listen very carefully to all of the other sections, follow the conductor unquestioningly, and blend my sound to match that of my peers in the viola section.
 
-- Refactoring the process
+- **Refactoring the process**
 I came into a team in a fairly junior level to help with fundraising administration. I was surprised that it required a full time job, but once I saw the outdated, manual processes being used it made sense. I spent the first six months in that role digitising everything: setting up online membership sales, reducing the need for manual data entry, adding handwritten records onto the CRM, analysing donor behaviour through Excel instead of guessing. This freed me up to start working on fundraising campaigns and with my manager, and together we doubled the membership in two years and started a regular campaign schedule that significantly increased income.
 
-- Persuasive communication skills
+- **Persuasive communication skills**
 As a fundraising professional, I spent a lot of time speaking to people across all levels and industries to tell our story. This ranged from CEOs of IT companies and Partners in law firms, to drinks company reps and sometimes the brewers themselves. I enjoyed telling our story from different angles to suit their business needs and to help them connect with our vision. This resulted in some great, symbiotic corporate partnerships. My writing skills are also strong having written many campaign letters that were sent to an international audience and resulting in thousands of pounds of donations.
 
 ## Education
@@ -37,7 +30,7 @@ Intensive engineering bootcamp focusing on full stack development. So far I have
 - Git, CLI
 - I have previous experience of using JavaScript, HTML and CSS
 
-#### University of Surrey (Sep-09 to Jun-13)
+#### University of Surrey
 
 - Music and Arts Management
 - 1st Class Honours
@@ -89,6 +82,12 @@ _Associate Tutor in Concert Management_
 
 - Managing music events
 - Teaching the skills required to plan and manage a concert through lectures and practical training
+
+## Projects
+
+| Name                             | Description                                            | Tech/tools        |
+| -------------------------------- | ------------------------------------------------------ | ----------------- |
+| [**Takeaway**](https://github.com/sophiegilder/golden-square/tree/main/takeaway)          | Week 2 Makers project - class system Takeaway simulator | Ruby, RSpec, Twilio API            |
 
 ## Hobbies
 
