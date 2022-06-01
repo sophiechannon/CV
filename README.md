@@ -95,4 +95,4 @@ _Associate Tutor in Concert Management_
 
 ## Hobbies
 
-Playing viola in orchestra, running my small macrame business, running, stand-up paddle-boarding and going to gigs.
+Playing viola in orchestra, running my small macrame business, running, stand-up paddle-boarding and going to gigs. And Codewars, of course (4kyu).
