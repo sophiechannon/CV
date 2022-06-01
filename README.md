@@ -29,10 +29,11 @@ As a fundraising professional, I spent a lot of time speaking to people across a
 Intensive engineering bootcamp focusing on full stack development. So far I have gained experience with:
 - OOP, TDD
 - Ruby, RSpec
-- Sinatra
+- Sinatra, Capybara
 - Pair programming
 - Git, CLI
-- I have previous experience of using JavaScript, HTML and CSS
+- HTML and CSS
+- I have previous experience of using JavaScript, and will developing this in the coming weeks 
 
 #### University of Surrey
 
