@@ -1,8 +1,18 @@
-## Sophie Gilder
+Sophie Gilder
+=============
 
 Junior Software Engineer with a background in fundraising project management in the arts and charity sector. I want to work in tech and use my experience in one of the most socially progressive industries to help make the world a better place.
 
 _This CV is a work in progress whilst I am studying at Makers Academy (Apr22-Aug22) and will be updated regularly. Please excuse gaps._
+
+## Projects
+
+| Name                             | Description                                            | Tech/tools        |
+| -------------------------------- | ------------------------------------------------------ | ----------------- |
+| [**MakersBnB**](https://github.com/sophiegilder/MakersBnB)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Chitter**](https://github.com/sophiegilder/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Rock Paper Scissors**](https://github.com/sophiegilder/rps-challenge)| Week 3 Makers solo weekend project - single and multi player RPS web app | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
+| [**Birthday Greeter**](https://github.com/sophiegilder/birthday_greeter)| Week 3 Makers bonus solo weekend project - Makes use of Ruby's inbuilt date class for a birthday countdown | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
 
 ## Education
 
@@ -13,7 +23,7 @@ Intensive engineering bootcamp focusing on full stack development. So far I have
 - Ruby, JavaScript
 - PostgreSQL, TablePlus
 - Sinatra, Capybara, RSpec
-- Pair programming
+- Pair programming & Group working
 - Git, CLI
 - HTML and CSS
 
@@ -23,13 +33,6 @@ Intensive engineering bootcamp focusing on full stack development. So far I have
 - 1st Class Honours
 - Specialised in performance, composition and management
 - Awarded a performance scholarship
-
-## Projects
-
-| Name                             | Description                                            | Tech/tools        |
-| -------------------------------- | ------------------------------------------------------ | ----------------- |
-| [**Rock Paper Scissors**](https://github.com/sophiegilder/rps-challenge)| Week 3 Makers project - single and multi player RPS web app | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
-| [**Takeaway**](https://github.com/sophiegilder/golden-square/tree/main/takeaway)| Week 2 Makers project - class system Takeaway simulator | Ruby, RSpec, Twilio API            |
 
 ## Skills
 
