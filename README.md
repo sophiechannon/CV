@@ -20,9 +20,9 @@ _This CV is a work in progress whilst I am studying at Makers Academy (Apr22-Aug
 
 Intensive engineering bootcamp focusing on full stack development. So far I have gained experience with:
 - OOP, TDD
-- Ruby, JavaScript
-- PostgreSQL, TablePlus
-- Sinatra, Capybara, RSpec
+- Ruby, RSpec, Capybara, Sinatra
+- JavaScript, Jest, Express
+- PostgreSQL
 - Pair programming & Group working
 - Git, CLI
 - HTML and CSS
