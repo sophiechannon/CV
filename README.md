@@ -9,10 +9,12 @@ _This CV is a work in progress whilst I am studying at Makers Academy (Apr22-Aug
 
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| [**MakersBnB**](https://github.com/sophiegilder/MakersBnB)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
-| [**Chitter**](https://github.com/sophiegilder/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Acebook**](https://github.com/sophiegilder/acebook-node)| Week 8-9 Makers group project - Full stack Facebook clone. Originally built with Handlebars and converted into React during the seocond week. (WIP) | Node.js, React, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
+| [**News App (API)**](https://github.com/sophiegilder/news-summary-challenge)| Week 7 Makers solo project - Creating a front end app that connects to the Guardian news API.  | JavaScript, Express, Jest |
+| [**MakersBnB**](https://github.com/sophiegilder/MakersBnB)| Week 5 Makers group project (full stack) - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Chitter**](https://github.com/sophiegilder/chitter-challenge)| Week 4 Makers solo weekend project (full stack) - Twitter clone with user registration, authentication, and ability to tweet. (WIP) | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
 | [**Rock Paper Scissors**](https://github.com/sophiegilder/rps-challenge)| Week 3 Makers solo weekend project - single and multi player RPS web app | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
-| [**Birthday Greeter**](https://github.com/sophiegilder/birthday_greeter)| Week 3 Makers bonus solo weekend project - Makes use of Ruby's inbuilt date class for a birthday countdown | Ruby, RSpec, Capybara, Sinatra, HTML, CSS |
+
 
 ## Education
 
@@ -21,11 +23,12 @@ _This CV is a work in progress whilst I am studying at Makers Academy (Apr22-Aug
 Intensive engineering bootcamp focusing on full stack development. So far I have gained experience with:
 - OOP, TDD
 - Ruby, RSpec, Capybara, Sinatra
-- JavaScript, Jest, Express
-- PostgreSQL
+- JavaScript, React, Jest, Express, Cypress
+- PostgreSQL, MongoDB, Mongoose
 - Pair programming & Group working
 - Git, CLI
 - HTML and CSS
+- Mentoring two people
 
 #### University of Surrey
 
