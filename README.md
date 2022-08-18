@@ -5,11 +5,11 @@ Sophie Channon
   <a href="https://www.codewars.com/users/sophiechannon"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 
-I am a career changer Junior Software Engineer with a background the arts sector. I recently spent an amazing 16 weeks on the Makers Academy software engineering bootcamp learning to be a full stack engineer. In those 16 weeks I went from knowing some basic Ruby and JavaScript, to conceptualising and delivering a full stack, test driven, React website, using multiple APIs and working in a team. 
+I am a career changer Junior Software Engineer with a background in the arts sector. I recently spent an amazing 16 weeks on the Makers Academy software engineering bootcamp learning to be a full stack engineer. In those 16 weeks I went from knowing some basic Ruby and JavaScript, to conceptualising and delivering a full stack, test driven, React website, using multiple APIs and working in a team. 
 
-My career in the arts and charitable sectors so far has revolved around fundraising and relationship building. I loved working in the industry and doing work that helped people, however, as I learnt more about myself, I realised that I craved a career that would enable me to problem solve, apply logical and pragmatic thinking, and make cool things.
+My career in the arts and charitable sectors has revolved around fundraising and relationship building. I loved working in the industry and doing work that helped people, however, as I learnt more about myself, I realised that I craved a career that would enable me to problem solve, apply logical and pragmatic thinking, and make cool things.
 
-Outside of work, I am a musician and lead the viola section in the Cambridge Philharmonic Orchestra. I'm also really into running, stand up paddle boarding, and going on aimless rambles by myself. I practice yoga and meditation, and love being outdoors. I also run a small macrame tapestry business, [Macramazing](https://macramazing.co.uk)!
+Outside of work, I am a musician and co-lead the viola section of the Cambridge Philharmonic Orchestra. I'm also really into running, stand up paddle boarding, and going on aimless rambles by myself. I practice yoga and meditation, and love being outdoors. I also run a small macrame tapestry business, [Macramazing](https://macramazing.co.uk)!
 
 # Project Highlights
 
@@ -17,9 +17,12 @@ An ever-growing selection of my recent projects and collaborations...
 
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
-| [**Beach Finder**](https://github.com/robimaliqi/beach-life)| Final Makers group project - An original concept to for a beach information website using multiple APIs to display weather, tides, address and map information. Built and presented in two weeks. | Node.js, React, Mongoose, MongoDB, Express, Jest, React Testing Library, CSS |
-| [**Acebook**](https://github.com/sophiegilder/acebook-node) [_Live link_](https://acebook-valero.herokuapp.com/)| Week 8-9 Makers group project - Facebook clone. Originally built with Handlebars and converted into React during the second week. | Node.js, React, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
+| [**Beach Finder**](https://github.com/robimaliqi/beach-life)| Final Makers group project - An original concept for a beach information website using multiple APIs to display weather, tides, address and map information. Built and presented in two weeks. | Node.js, React, Mongoose, MongoDB, Express, Jest, React Testing Library, CSS |
+| [**Acebook**](https://github.com/sophiegilder/acebook-node) [_(Live link)_](https://acebook-valero.herokuapp.com/)| Weeks 8-9 Makers group project - Facebook clone. Originally built with Handlebars and converted into React during the second week. | Node.js, React, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
 | [**MakersBnB**](https://github.com/sophiegilder/MakersBnB)| Week 5 Makers group project - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
+| [**Bank Account**](https://github.com/sophiechannon/bank-account)| Mock tech test - build a bank account class system focusing on high code quality. | JavaScript, Jest |
+| [**Gilded Rose**](https://github.com/sophiechannon/gilded-rose)| Mock tech test - Refactoring legacy code focusing on high code quality. | Ruby, RSpec |
+
 
 
 # Education & Training
@@ -28,13 +31,13 @@ An ever-growing selection of my recent projects and collaborations...
 
 
 **Skills I gained at Makers**
-- Pair programming
-- Patience
-- Setting realistic goals
-- Test Driven Development
-- Meaningful code review
-- Group project working
-- Mentoring (I have two mentees from another cohort)
+- **Pair programming:** working collaboratively with people with different learning styles
+- **Patience:** with myself whilst learning new concepts and when teaching others
+- **Setting realistic goals:** not getting overwhelmed and breaking down problems
+- **Test Driven Development:** trusting the TDD process to guide me towards a better and well tested result
+- **Meaningful code review:** thoroughly reading and understanding other people's code before committing it to the main branch
+- **Group project working:** finding a balance between getting work done and ensuring that everybody's ideas were included
+- **Mentoring:** I was inspired by my own great mentor to take on two mentors who are currently studying at Makers. This has been very rewarding so far
 
 **Tech I worked with at Makers**
 
@@ -82,10 +85,10 @@ An ever-growing selection of my recent projects and collaborations...
  I can be patient and enjoy sharing my knowledge with others, especially when those who are willing to learn. I find great satisfaction from helping somebody find a solution themselves.
 
 ### Persuasive communication skills
-As a fundraising professional, I spent a lot of time speaking to people across all levels and industries to tell our story. By listening to businesses needs, I could find parts of our stories that overlapped, helping them to connect with us, and resulting in symbiotic partnerships.
+As a fundraising professional, I spent a lot of time speaking to people across all levels and industries to tell our story. By listening to people, I could find parts of our stories that overlapped, helping their businesses to connect with us, and resulting in symbiotic partnerships.
 
 ### Project development and management
-At Cambridge Junction, I honed my leadership skills whilst overseeing multiple projects from their inception, through all stages of fundraising and delivery, right through to evaluation and monitoring. It was my job to keep the delivery team on track and on budget, and to report back to the funder at the end. I applied this experience to my group work at Makers.
+At Cambridge Junction, I honed my leadership skills whilst overseeing multiple projects from their inception, through all stages of fundraising and delivery, right through to evaluation and monitoring. It was my job to keep the delivery team on track and on budget, and to report back to the funder at the end. I applied this experience to my group work at Makers by carrying out frequent standups and retros.
 
 
 # My career so far
