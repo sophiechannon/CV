@@ -5,11 +5,11 @@ Sophie Channon
   <a href="https://www.codewars.com/users/sophiechannon"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 
-I am a career changer Junior Software Engineer with a background in the arts sector. I recently spent an amazing 16 weeks on the Makers Academy software engineering bootcamp learning to be a full stack engineer. In those 16 weeks I went from knowing some basic Ruby and JavaScript, to conceptualising and delivering a full stack, test driven, React website, using multiple APIs and working in a team. 
+I am a fast learning, career changing, Junior Software Engineer with a background in the arts sector. I recently spent an amazing 16 weeks on the Makers Academy software engineering bootcamp learning to be a full stack engineer. In those 16 weeks I went from knowing some basic Ruby and JavaScript, to conceptualising and delivering a full stack, test driven, React website, using multiple APIs and working in a team. 
 
 My career in the arts and charitable sectors has revolved around fundraising and relationship building. I loved working in the industry and doing work that helped people, however, as I learnt more about myself, I realised that I craved a career that would enable me to problem solve, apply logical and pragmatic thinking, and make cool things.
 
-Outside of work, I am a musician and co-lead the viola section of the Cambridge Philharmonic Orchestra. I'm also really into running, stand up paddle boarding, and going on aimless rambles by myself. I practice yoga and meditation, and love being outdoors. I also run a small macrame tapestry business, [Macramazing](https://macramazing.co.uk)!
+Outside of work, I am a musician and co-lead the viola section of the Cambridge Philharmonic Orchestra. I'm also really into running, stand up paddle boarding, yoga, and going on aimless rambles by myself. I run a small macrame tapestry business, [Macramazing](https://macramazing.co.uk), which allows me to be creative and entrepreneurial in my spare time. I love learning and expanding my pool of both useful and completely pointless knowledge. On the more useful side, I am currenty teaching myself Kotlin, Java and Dutch.
 
 # Project Highlights
 
@@ -27,7 +27,8 @@ An ever-growing selection of my recent projects and collaborations...
 
 # Education & Training
 
-### Makers Academy, Software Engineering (Apr-22 to Aug-22)
+### Software Engineering 
+_Makers Academy (Apr-22 to Aug-22)_
 
 
 **Skills I gained at Makers**
@@ -62,12 +63,16 @@ An ever-growing selection of my recent projects and collaborations...
 
   <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Heroku-310161?style=for-the-badge&logo=heroku&logoColor=310161&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Heroku-310161?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=282828"></br>
+
+  <img src="https://img.shields.io/badge/-Kotlin-664ACC?style=for-the-badge&logo=kotlin&logoColor=664ACC&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=coffeescript&logoColor=282828&labelColor=282828">
   </div>
   </p></br>
 
 
-### University of Surrey, Music and Arts Management (Sep-09 to Jun-13)
+### Music and Arts Management 
+_University of Surrey (Sep-09 to Jun-13)_
 
 - 1st Class Honours
 - Specialised in ensemble performance, requiring strong teamwork and communication skills
@@ -82,10 +87,7 @@ An ever-growing selection of my recent projects and collaborations...
  I am good at breaking down a problem into smaller chunks and finding a clear path for navigating large and tricky problems. An example of this would be planning the Beach Finder project at Makers, where we used GitHub projects to develop a user story and split the task into manageable tickets.
  
  ### Teaching others
- I can be patient and enjoy sharing my knowledge with others, especially when those who are willing to learn. I find great satisfaction from helping somebody find a solution themselves.
-
-### Persuasive communication skills
-As a fundraising professional, I spent a lot of time speaking to people across all levels and industries to tell our story. By listening to people, I could find parts of our stories that overlapped, helping their businesses to connect with us, and resulting in symbiotic partnerships.
+ I can be patient and enjoy sharing my knowledge with others, especially when those who are willing to learn. I find great satisfaction from helping somebody find a solution themselves. I built upon my previous teaching experience during my time at Makers, espcially in group projects or pairing sessions.
 
 ### Project development and management
 At Cambridge Junction, I honed my leadership skills whilst overseeing multiple projects from their inception, through all stages of fundraising and delivery, right through to evaluation and monitoring. It was my job to keep the delivery team on track and on budget, and to report back to the funder at the end. I applied this experience to my group work at Makers by carrying out frequent standups and retros.
@@ -93,43 +95,43 @@ At Cambridge Junction, I honed my leadership skills whilst overseeing multiple p
 
 # My career so far
 
-### Cambridge Junction (Jan-20 to May-22)  
-_Development Manager (Fundraising... not coding!)_
+### Development Manager (Fundraising... not coding!)
+_Cambridge Junction (Jan-20 to May-22)_
+
 
 - Project planning and management, from idea generation through to grant writing and donor stewardship
-- Communicating across departments to ensure the projects we delivered were on track
-- Building relationships with donors
-- Training staff to use ticketing software
+- Communicating across departments to ensure our portfolio of projects were on track and budget
+- Building relationships with donors to facilitate their trust resulting in increased financial support
+- Managing the membership scheme and low level donations, which increased by approximately 75% during my time in post
+- Training other members of the team to use box office and donation software
 - Member of the Equality, Diversity, Inclusivity and Belonging group who met regularly to improve our approach to these issues, including making the building more accessible and hiring a team that better represented the community we served
 
-### Cambridge City Council & Cambridge Folk Festival (Oct-18 to Dec-19)  
-_Development Manager (Fundraising)_
+### Development Manager (Fundraising)
+_Cambridge City Council & Cambridge Folk Festival (Oct-18 to Dec-19)_
 
-- Networking with the local business community
-- Persuasive negotiation to close sponsorship deals
+- Networking with the local business community, to build more meaningful relationships and increase donations
 - Adapting to a changing work environment during a transfer from a charity to the local authority
-- Identifying a gap in the market and developing a membership scheme for the Corn Exchange venue
+- Identifying a gap in the market and developing a membership scheme for the Corn Exchange music venue
 
-### BirdLife International (Sep-16 to Oct-18)  
-_Fundraising Officer_
+### Fundraising Officer
+_BirdLife International (Sep-16 to Oct-18)_ 
 
-- Modernising administrative practices enabling me up to spend more time raising funds
-- Improving donor experience with website redevelopment in collaboration with a web developer
+- Taking the initiative to update outdated administrative practices enabling me up to spend more time raising funds resulting in increased fundraising income
+- Working with a web developer to plan and implement new donation pages on the website to improve user experience and increase donations.
 
-### Hazard Chase (Sep-15 to Sep-16)  
-_Assistant Artist Manager_
+### Assistant Artist Manager
+_Hazard Chase (Sep-15 to Sep-16)_
 
-- Learning new diary management software to arrange artist travel, accommodation and visa
-- Learning on the job with no handover
+- Hitting the ground running with tight deadlines from day one, learning on the job and taking initiative to ensure work was carried out on time with no training
+- Rapidly gaining familiarity with diary management software to arrange artist travel, accommodation and visas
 
-### Arts Marketing Association (Nov-13 to Sep-15)  
-_Membership and Marketing Officer_
+### Membership and Marketing Officer
+_Arts Marketing Association (Nov-13 to Sep-15)_
 
-- Overseeing the membership scheme and member communications
-- Event support at conferences and hosting events across the UK
+- Promoted from a more junior position after a few months to take ownership of the membership scheme. In the new role I implemented a new method to enable renewals online which improved user experience
+- Travelling across the UK to represent the organisation and host different training events, ensuring that the events ran smoothly
 
-### University of Surrey (Sep-13 to Jun-14)  
-_Associate Tutor in Concert Management_
+### Associate Tutor in Concert Management
+_University of Surrey (Sep-13 to Jun-14)_
 
-- Managing large music events and all event staff
-- Teaching students how to manage concerts, including some students who were older than me
+- I took on this role fresh out of University and my main responsibility was to teach students how to manage music events. The main challenge I faced was dealing with imposter syndrome, which I managed by planning lessons thoroughly so I could feel confident that I was delivering high quality content.
