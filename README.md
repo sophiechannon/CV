@@ -5,11 +5,9 @@ Sophie Channon
   <a href="https://www.codewars.com/users/sophiechannon"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 
-I am a fast learning, career changing, Junior Software Engineer with a background in the arts sector. I recently spent an amazing 16 weeks on the Makers Academy software engineering bootcamp learning to be a full stack engineer. In those 16 weeks I went from knowing some basic Ruby and JavaScript, to conceptualising and delivering a full stack, test driven, React website, using multiple APIs and working in a team. 
+I am a fast learning software engineer with a background in the arts sector. I retrained in 16 weeks on the Makers Academy software engineering bootcamp. In those 16 weeks I went from knowing some basic Ruby and JavaScript, to conceptualising and delivering a full stack, test driven, React website in a small team.
 
-My career in the arts and charitable sectors has revolved around fundraising and relationship building. I loved working in the industry and doing work that helped people, however, as I learnt more about myself, I realised that I craved a career that would enable me to problem solve, apply logical and pragmatic thinking, and make cool things.
-
-Outside of work, I am a musician and co-lead the viola section of the Cambridge Philharmonic Orchestra. I'm also really into running, stand up paddle boarding, yoga, and going on aimless rambles by myself. I run a small macrame tapestry business, [Macramazing](https://macramazing.co.uk), which allows me to be creative and entrepreneurial in my spare time. I love learning and expanding my pool of both useful and completely pointless knowledge. On the more useful side, I am currenty teaching myself Kotlin, Java and Dutch.
+I am working in my first tech role now as a junior full stack developer at a veterinary services company, helping to save animals. 
 
 # Project Highlights
 
@@ -18,9 +16,9 @@ An ever-growing selection of my recent projects and collaborations...
 | Name                             | Description                                            | Tech/tools        |
 | -------------------------------- | ------------------------------------------------------ | ----------------- |
 | [**Beach Finder**](https://github.com/robimaliqi/beach-life)| Final Makers group project - An original concept for a beach information website using multiple APIs to display weather, tides, address and map information. Built and presented in two weeks. | Node.js, React, Mongoose, MongoDB, Express, Jest, React Testing Library, CSS |
+| [**Arduino fan**](https://github.com/sophiechannon/AmplifierFanArduino)| I built a fan using an arduino, computer fan and other bits of hardware I had lying around. It turns on/off based on room temperature and has some pointless LEDs for fun. | Arduino, C++, prototyped in Kotlin & JUnit |
 | [**Acebook**](https://github.com/sophiegilder/acebook-node) [_(Live link)_](https://acebook-valero.herokuapp.com/)| Weeks 8-9 Makers group project - Facebook clone. Originally built with Handlebars and converted into React during the second week. | Node.js, React, MongoDB, Mongoose, Express, Handlebars, Cypress, Jest |
 | [**MakersBnB**](https://github.com/sophiegilder/MakersBnB)| Week 5 Makers group project - Airbnb clone with user registration, authentication, list a property, book a property and confirm a booking. | Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, CSS |
-| [**Bank Account**](https://github.com/sophiechannon/bank-account)| Mock tech test - build a bank account class system focusing on high code quality. | JavaScript, Jest |
 | [**Gilded Rose**](https://github.com/sophiechannon/gilded-rose)| Mock tech test - Refactoring legacy code focusing on high code quality. | Ruby, RSpec |
 
 
@@ -94,6 +92,13 @@ At Cambridge Junction, I honed my leadership skills whilst overseeing multiple p
 
 
 # My career so far
+
+### Junior Software Engineer
+_VetCT (Oct-22...)_
+
+Full stack developer. Currently I'm developing the UI for tools to help veterinary radiologists work more efficiently to help save more animals' lives! 
+
+Tech stack: React, TypeScript, AWS, Jira, Node.
 
 ### Development Manager (Fundraising... not coding!)
 _Cambridge Junction (Jan-20 to May-22)_
